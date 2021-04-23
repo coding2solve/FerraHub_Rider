@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>655855247056-6lt9vckl42j6lm8ideda9s85abhe6qfo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.655855247056-6lt9vckl42j6lm8ideda9s85abhe6qfo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbycFXhD0xqbW9Pd1D0dyaXIORVImaMoI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>655855247056</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tunde.ferrahub</string>
+	<key>PROJECT_ID</key>
+	<string>outstanding-map-266510</string>
+	<key>STORAGE_BUCKET</key>
+	<string>outstanding-map-266510.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:655855247056:ios:9de89a10b67f9dc44088d5</string>
+	<key>DATABASE_URL</key>
+	<string>https://outstanding-map-266510-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
