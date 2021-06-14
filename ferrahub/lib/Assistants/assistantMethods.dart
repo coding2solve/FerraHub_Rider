@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:ferrahub/Assistants/requestAssistant.dart';
 import 'package:ferrahub/DataHandler/appData.dart';
 import 'package:ferrahub/Models/address.dart';
@@ -102,5 +104,11 @@ static Future <DirectionDetails> obtainPlaceDirectionDetails(LatLng initialPosit
 
   });
 
+   }
+
+   static double createRandomNumber(int num){
+    var random =Random();
+    int radNumber = random.nextInt(num);
+    return radNumber.toDouble();
    }
 }
