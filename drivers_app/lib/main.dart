@@ -9,6 +9,7 @@ import 'package:drivers_app/AllScreens/mainscreen.dart';
 import 'package:drivers_app/AllScreens/registerationScreen.dart';
 import 'package:provider/provider.dart';
 import 'DataHandler/appData.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:drivers_app/AllScreens/searchScreen.dart';
 
 void main() async {
